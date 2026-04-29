@@ -1,0 +1,13 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/campaign-calendar/page": "/campaign-calendar",
+  "/campaign-details/page": "/campaign-details",
+  "/campaign-sub-condition/page": "/campaign-sub-condition",
+  "/clinical-regulation-generator/page": "/clinical-regulation-generator",
+  "/introduction/page": "/introduction",
+  "/lifestage-overview/[stage]/page": "/lifestage-overview/[stage]",
+  "/lifestage-overview/page": "/lifestage-overview",
+  "/overview/page": "/overview",
+  "/page": "/"
+}

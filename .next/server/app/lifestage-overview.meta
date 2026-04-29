@@ -1,0 +1,17 @@
+{
+  "status": 307,
+  "headers": {
+    "location": "/lifestage-overview/acquire",
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/lifestage-overview/layout,_N_T_/lifestage-overview/page,_N_T_/lifestage-overview"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/lifestage-overview/__PAGE__",
+    "/lifestage-overview",
+    "/_index",
+    "/_head"
+  ]
+}

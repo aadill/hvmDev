@@ -1,0 +1,27 @@
+/* [project]/app/onest_fb5e6e68.module.css [app-client] (css) */
+@font-face {
+  font-family: onest;
+  src: url("../media/Onest_VariableFont_wght-s.p.0cgc8cvz6ti9g.ttf") format("truetype");
+  font-display: swap;
+  font-weight: 100 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: onest Fallback;
+  src: local(Arial);
+  ascent-override: 91.42%;
+  descent-override: 28.75%;
+  line-gap-override: 0.0%;
+  size-adjust: 106.1%;
+}
+
+.onest_fb5e6e68-module__qM8DEG__className {
+  font-family: onest, onest Fallback;
+}
+
+.onest_fb5e6e68-module__qM8DEG__variable {
+  --font-onest: "onest", "onest Fallback";
+}
+
+/*# sourceMappingURL=app_onest_fb5e6e68_module_css_0w3-wzy._.single.css.map*/

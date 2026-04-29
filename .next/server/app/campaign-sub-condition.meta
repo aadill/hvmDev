@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/campaign-sub-condition/layout,_N_T_/campaign-sub-condition/page,_N_T_/campaign-sub-condition"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/campaign-sub-condition/__PAGE__",
+    "/campaign-sub-condition",
+    "/_index",
+    "/_head"
+  ]
+}

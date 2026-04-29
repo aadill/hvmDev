@@ -1,0 +1,16 @@
+{
+  "app": {
+    "[project]/app/introduction/page": [
+      "static/media/Onest_VariableFont_wght-s.p.0cgc8cvz6ti9g.ttf"
+    ],
+    "[project]/app/overview/page": [
+      "static/media/Onest_VariableFont_wght-s.p.0cgc8cvz6ti9g.ttf"
+    ],
+    "[project]/app/page": [
+      "static/media/Onest_VariableFont_wght-s.p.0cgc8cvz6ti9g.ttf"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pages": {},
+  "pagesUsingSizeAdjust": false
+}
